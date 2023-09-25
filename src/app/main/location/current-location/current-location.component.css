@@ -1,0 +1,8 @@
+.map-container {
+    height: 400px;
+  }
+  /* current-location.component.css */
+#map {
+    height: 400px;
+    width: 100%;
+  }
